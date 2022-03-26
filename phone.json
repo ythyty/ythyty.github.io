@@ -3,7 +3,7 @@
         "id": "view",
         "name": "紧急电话",
         "open": true,
-        "subname": [
+        "subName": [
             "火警",
             "盗警",
             "急救"
@@ -18,7 +18,7 @@
         "id": "form",
         "name": "银行电话",
         "open": true,
-        "subname": [
+        "subName": [
             "工商银行",
             "建设银行",
             "农业银行",
@@ -57,7 +57,7 @@
         "id": "feedback",
         "name": "快递电话",
         "open": true,
-        "subname": [
+        "subName": [
             "申通快递",
             "EMS",
             "第三人民医院",
@@ -95,7 +95,7 @@
         "id": "nav",
         "name": "通讯客服",
         "open": true,
-        "subname": [
+        "subName": [
             "中国移动",
             "中国联通",
             "中国电信",
@@ -116,7 +116,7 @@
         "id": "media",
         "name": "投诉举报",
         "open": true,
-        "subname": [
+        "subName": [
             "消费者投诉热线",
             "价格投诉热线",
             "质量投诉",
@@ -146,7 +146,7 @@
     {
         "id": "map",
         "name": "铁路航空",
-        "subname": [
+        "subName": [
             "铁路",
             "国航",
             "海航",
@@ -170,7 +170,7 @@
     {
         "id": "canvas",
         "name": "售后服务",
-        "subname": [
+        "subName": [
             "苹果",
             "诺基亚",
             "三星",
@@ -197,7 +197,7 @@
     {
         "id": "canvas1",
         "name": "法律相关",
-        "subname": [
+        "subName": [
             "工资拖欠问题举报",
             "经济犯罪举报中心",
             "打拐买举报电话",
