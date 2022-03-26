@@ -2,7 +2,7 @@
     {
         "id": "view",
         "name": "紧急电话",
-        "open": false,
+        "open": true,
         "subname": [
             "火警",
             "盗警",
@@ -17,7 +17,7 @@
     {
         "id": "form",
         "name": "银行电话",
-        "open": false,
+        "open": true,
         "subname": [
             "工商银行",
             "建设银行",
@@ -56,7 +56,7 @@
     {
         "id": "feedback",
         "name": "快递电话",
-        "open": false,
+        "open": true,
         "subname": [
             "申通快递",
             "EMS",
@@ -94,7 +94,7 @@
     {
         "id": "nav",
         "name": "通讯客服",
-        "open": false,
+        "open": true,
         "subname": [
             "中国移动",
             "中国联通",
@@ -115,7 +115,7 @@
     {
         "id": "media",
         "name": "投诉举报",
-        "open": false,
+        "open": true,
         "subname": [
             "消费者投诉热线",
             "价格投诉热线",
